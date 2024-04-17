@@ -1,0 +1,15 @@
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\bin\Debug\net7.0\ConsoleAppList.exe
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\bin\Debug\net7.0\ConsoleAppList.deps.json
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\bin\Debug\net7.0\ConsoleAppList.runtimeconfig.json
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\bin\Debug\net7.0\ConsoleAppList.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\bin\Debug\net7.0\ConsoleAppList.pdb
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ConsoleAppList.csproj.AssemblyReference.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ConsoleAppList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ConsoleAppList.AssemblyInfoInputs.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ConsoleAppList.AssemblyInfo.cs
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ConsoleAppList.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ConsoleAppList.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\refint\ConsoleAppList.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ConsoleAppList.pdb
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ConsoleAppList.genruntimeconfig.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppList\ConsoleAppList\obj\Debug\net7.0\ref\ConsoleAppList.dll
